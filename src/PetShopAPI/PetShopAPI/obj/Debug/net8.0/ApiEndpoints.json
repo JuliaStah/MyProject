@@ -1,0 +1,131 @@
+[
+  {
+    "ContainingType": "PetShopAPI.Controllers.AnimalsController",
+    "Method": "GetAnimals",
+    "RelativePath": "api/Animals",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetShopAPI.Controllers.AnimalsController",
+    "Method": "CreateAnimal",
+    "RelativePath": "api/Animals",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "species",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "breed",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "age",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "price",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "isAvailable",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetShopAPI.Controllers.AnimalsController",
+    "Method": "UpdateAnimal",
+    "RelativePath": "api/Animals",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "species",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "breed",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "age",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "price",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "isAvailable",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetShopAPI.Controllers.AnimalsController",
+    "Method": "DeleteAnimal",
+    "RelativePath": "api/Animals",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetShopAPI.Controllers.AnimalsController",
+    "Method": "GetAnimal",
+    "RelativePath": "api/Animals/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

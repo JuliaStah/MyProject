@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4 \u041A\u0423\u0420\u0421\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\\u041B\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\PetShopAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C980D0-8FDF-41D5-997C-C9716D4C1A3F}|PetShopAPI\\PetShopAPI.csproj|d:\\4 \u043A\u0443\u0440\u0441\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\\u043B\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\petshopapi\\petshopapi\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C980D0-8FDF-41D5-997C-C9716D4C1A3F}|PetShopAPI\\PetShopAPI.csproj|solutionrelative:petshopapi\\controllers\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C980D0-8FDF-41D5-997C-C9716D4C1A3F}|PetShopAPI\\PetShopAPI.csproj|d:\\4 \u043A\u0443\u0440\u0441\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\\u043B\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\petshopapi\\petshopapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C980D0-8FDF-41D5-997C-C9716D4C1A3F}|PetShopAPI\\PetShopAPI.csproj|solutionrelative:petshopapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5C980D0-8FDF-41D5-997C-C9716D4C1A3F}|PetShopAPI\\PetShopAPI.csproj|d:\\4 \u043A\u0443\u0440\u0441\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\\u043B\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\petshopapi\\petshopapi\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5C980D0-8FDF-41D5-997C-C9716D4C1A3F}|PetShopAPI\\PetShopAPI.csproj|solutionrelative:petshopapi\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalsController.cs",
+              "DocumentMoniker": "D:\\4 \u041A\u0423\u0420\u0421\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\\u041B\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\PetShopAPI\\PetShopAPI\\Controllers\\AnimalsController.cs",
+              "RelativeDocumentMoniker": "PetShopAPI\\Controllers\\AnimalsController.cs",
+              "ToolTip": "D:\\4 \u041A\u0423\u0420\u0421\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\\u041B\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\PetShopAPI\\PetShopAPI\\Controllers\\AnimalsController.cs",
+              "RelativeToolTip": "PetShopAPI\\Controllers\\AnimalsController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:40:57.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\4 \u041A\u0423\u0420\u0421\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\\u041B\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\PetShopAPI\\PetShopAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PetShopAPI\\Models\\Product.cs",
+              "ToolTip": "D:\\4 \u041A\u0423\u0420\u0421\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\\u041B\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\PetShopAPI\\PetShopAPI\\Models\\Product.cs",
+              "RelativeToolTip": "PetShopAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:39:19.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\4 \u041A\u0423\u0420\u0421\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\\u041B\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\PetShopAPI\\PetShopAPI\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "PetShopAPI\\Models\\Animal.cs",
+              "ToolTip": "D:\\4 \u041A\u0423\u0420\u0421\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\\u041B\u0438\u0447\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\PetShopAPI\\PetShopAPI\\Models\\Animal.cs",
+              "RelativeToolTip": "PetShopAPI\\Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T09:38:31.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
